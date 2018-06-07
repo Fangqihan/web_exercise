@@ -1,0 +1,323 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+input{
+	outline: none;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+/*导航部分*/
+.navbar1{
+	width: 100%;
+	background: RGB(36,89,162);
+	overflow: hidden;
+}
+.navbar1 img{
+	vertical-align: middle;
+	margin-right: 10px;
+}
+.nav-content{
+	width: 1016px;
+	margin: 0 auto;
+	height: 44px;
+	line-height: 44px;
+	position: relative;
+}
+
+.navbar1 ul li{
+	float: left;
+}
+.navbar1 li a{
+	font-size: 12px;
+	padding: 0 13px 0 16px;
+	line-height: 44px;
+}
+
+.nav-content .white-font{
+	background-color: #204982;
+}
+.navbar1 .other-color a{
+	display: inline-block;
+	height: 44px;
+	
+	color: #c0cddf;
+}
+.navbar1 .other-color a:hover{
+	background-color: #396bb3;
+	color: #ffffff;
+}
+.nav-content .white-font a{
+	color: #ffffff;
+}
+
+.user{
+	position: absolute;
+	height: 44px;
+	top: 0;
+	right: 0;
+}
+
+.user .user-box{
+	display: inline-block;
+	font-size: 12px;
+	color:#ffffff;
+    margin-right: 20px;
+	text-align: center;
+}
+
+.user input{
+	width: 100px;
+	height: 24px;
+    line-height: 24px;
+}
+
+.user .user-search{
+	display: inline-block;
+	width: 20px;
+	height: 23px;
+	line-height: 25px;
+	padding: 1px 0;
+	background-color: white;
+	text-align: center;
+	vertical-align: middle;
+}
+.user-search span{
+	color: #555555;
+	font-size: 12px;
+}
+.user .user-box:hover{
+	background-color: #396bb3;
+}
+
+/*内容部分*/
+.content-page{
+	width: 100%;
+	background-color: #ededed;
+}
+.content{
+	width: 1016px;
+	height: 2000px;
+	position: relative;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+.content-left{
+	width: 630px;
+	padding-left: 20px;
+	
+}
+
+/*内容导航*/
+.content-nav{
+	position: relative;
+}
+.content-nav ul{
+	display: table;
+	padding-top: 10px;
+}
+.content-nav ul li{
+	display: table-cell;
+	font-size: 12px;
+	font-weight: 700;
+	text-align: center;
+	width: 60px;
+	height: 26px;
+	line-height: 26px;
+}
+
+.content-nav ul li a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	color: #3366b3;
+}
+
+/*.content-nav ul li .active{*/
+	/*border:1px #c9dcee solid;*/
+	/*border-radius: 15px;*/
+	/*background-color: #f0f4f8;*/
+	/*color: black;*/
+/*}*/
+
+.active{
+	border:1px #c9dcee solid;
+	border-radius: 15px;
+	background-color: #f0f4f8;
+	color: black;
+}
+
+
+.content-nav ul li a:hover{
+	text-decoration: underline;
+}
+.content-nav ul li .active:hover{
+	text-decoration: none;
+}
+
+.content-nav>a{
+	display: inline-block;
+	width: 136px;
+	height: 32px;
+	line-height: 32px;
+	position: absolute;
+	top: 8px;
+	right: 0;
+	color: #ffffff;
+	background-color: #84a42b;
+	text-align: center;
+	font-weight: 400;
+    border-radius: 10px;
+}
+
+/*发布框*/
+
+.content-nav div{
+	/*width: 580px;*/
+	height: 340px;
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	background: #ece9d8;
+	z-index: 1;
+}
+
+.content-nav div textarea{
+	margin: 30px 10px 10px 10px;
+}
+.content-nav div button{
+	margin-left: 10px;
+}
+
+/*正文部分*/
+.content-text{
+	position: relative;
+	top: 20px;
+	
+}
+
+.content-text1{
+	border-bottom: 1px solid #dce7f4;
+    margin-bottom: 30px;
+}
+
+.part1>a{
+	font-size: 14px;
+	color: #336699;
+	font-weight: 700;
+}
+.part1>a:hover{
+	text-decoration: underline;
+}
+.part1>a>span{
+	font-size: 12px;
+	color: #b4b4b4;
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+.part2{
+	margin: 10px 0;
+}
+
+.part2 .icon{
+	color: #c0cbd9;
+}
+.part2 .count{
+	color: #a6aecb;
+	font-size: 14px;
+	padding-right: 20px;
+}
+.comment{
+	margin-top: 10px;
+}
+
+
+/*右侧内容*/
+.content-right{
+	width: 300px;
+	height: 1364px;
+	position: absolute;
+	top: 0;
+	right: 30px;
+	padding-top: 10px;
+}
+
+.content-right>a>img{
+	padding: 0 2.5px;
+}
+
+.content-right>p{
+	padding: 10px;
+}
+.content-right>p>a{
+	font-size: 14px;
+	font-weight: 700;
+	color: #336699;
+}
+.content-right>p>a:hover{
+	text-decoration: underline;
+}
+.down{
+    margin-right: 20px;
+}
+
+a{
+    text-underline: none;
+}
+.comment_list,.user_commnet{
+    padding: 10px;
+    background: #f6f6f6;
+}
+.user_commnet{
+    padding-left: 20px;
+}
+
+.comment_user{
+    margin-right: 20px;
+}
+
+.comment_item{
+    font-size: 12px;
+    padding: 10px;
+    border-bottom: dotted 1px #a6aecb;
+}
+
+.comment_item:hover{
+    background: #009add;
+}
+
+.content_1{
+    position: relative;
+}
+
+.content-text{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/*移动到超链接时改变指针形状*/
+a:hover{
+    cursor: grab;
+}
+
+
+/*弹出层*/
+#post_panel{
+    width: 600px;
+    height: 300px;
+    background: #eeeeee;
+    position: fixed;
+    left: 50%!important;
+    top: 300px!important;
+    margin-left: -200px;
+    margin-top: -150px;
+    border-radius: 5px;
+}
+
