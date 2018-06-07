@@ -1,7 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e04665a-229d-4c82-bc4d-2ec3ac2ea6b8" name="Default" comment="" />
+    <list default="true" id="4e04665a-229d-4c82-bc4d-2ec3ac2ea6b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/css/font-awesome-ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/css/font-awesome-ie7.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/font/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/font/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/font/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/font/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/font/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/index_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/extras.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/font-awesome-ie7.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/font-awesome-ie7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-dark-vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-horizontal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/brand-license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/cheatsheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community/getting-support.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community/project-milestones.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community/reporting-bugs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community/requesting-new-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/community/submitting-pull-requests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/animated-spinner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/bordered-pulled.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/bulleted-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/button-dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/button-groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/form-inputs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/inline-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/larger-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/rotated-flipped.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/examples/stacked.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/get-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/brand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/currency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/directional.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/medical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/text-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/video-player.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/icons/web-application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/jumbotron-slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/jumbotron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/license-code.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/stripe-ad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/stripe-social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tell-me-thanks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-anchor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-btn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tests/stacked-inside-anchor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/tests/stacked.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/thanks-to.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/whats-new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_includes/why.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_layouts/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_layouts/icon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_plugins/icon_page_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/_plugins/site.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/css/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/css/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/extras.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome-ie7.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome-ie7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/ico/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/img/contribution-sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/img/fort_awesome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/img/icon-flag.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/backbone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/bootstrap-2.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/bootstrap-222.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/prettify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/js/underscore.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/accordion.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/button-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/carousel.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/close.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/code.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/component-animations.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/dropdowns.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/hero-unit.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/labels-badges.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/layouts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/modals.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pager.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/popovers.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/progress-bars.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/reset.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/scaffolding.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/sprites.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/thumbnails.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tooltip.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/type.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/wells.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/lazy.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/responsive-1200px-min.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/responsive-767px-max.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/responsive-768px-979px.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/responsive-navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/site.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/sticky-footer.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/assets/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/cheatsheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/community.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/design.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/get-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/icons.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Font-Awesome-3.2.1/src/whats-new.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +211,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="108" selection-end-column="26" />
+            <state relative-caret-position="154">
+              <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
               <folding>
-                <element signature="e#1531#1537#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -52,72 +264,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" selection-start-line="9" selection-end-line="40" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#textarea#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#1797#1802#0" />
-                <element signature="e#1670#1863#0" />
-                <element signature="e#1911#1953#0" />
-                <element signature="e#1992#2000#0" />
-                <element signature="e#2080#2285#0" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#textarea#0;n#div#1;n#div#2;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="751">
-              <caret line="317" column="10" selection-start-line="317" selection-start-column="10" selection-end-line="317" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -142,7 +288,11 @@
       <find>post_panel</find>
       <find>post</find>
       <find>class=&quot;content-text1&quot;</find>
+      <find>Font-Awesome-3.2.1</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -164,21 +314,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/static/Font-Awesome-3.2.1/package.json" />
-    </packageJsonPaths>
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="49" />
     <option name="width" value="1551" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,16 +339,11 @@
               <item name="web作业_抽屉" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="抽屉网" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web作业_抽屉" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +362,7 @@
       <recent name="C:\Users\Administrator\Desktop\web作业_抽屉\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\web作业_抽屉\static\Font-Awesome-3.2.1" />
       <recent name="C:\Users\Administrator\Desktop\web作业_抽屉\static" />
       <recent name="C:\Users\Administrator\Desktop\web作业_抽屉" />
       <recent name="C:\Users\Administrator\Desktop\web作业_抽屉\css" />
@@ -257,11 +401,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12917738" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32974428" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13046272" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -276,6 +420,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12917738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -289,6 +456,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -344,41 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/index_1.js">
+    <entry file="file://$PROJECT_DIR$/static/Font-Awesome-3.2.1/index_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#56#62#0" expanded="true" />
-            <element signature="e#62#68#0" expanded="true" />
-            <element signature="e#58#64#0" expanded="true" />
-            <element signature="e#64#70#0" expanded="true" />
-            <element signature="e#58#64#0" expanded="true" />
-            <element signature="e#64#70#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -389,10 +536,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="317" column="10" selection-start-line="317" selection-start-column="10" selection-end-line="317" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="108" selection-end-column="26" />
+        <state relative-caret-position="154">
+          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
           <folding>
             <element signature="e#1531#1537#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -424,40 +610,6 @@
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#1;n#div#2;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" selection-start-line="9" selection-end-line="40" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="317" column="10" selection-start-line="317" selection-start-column="10" selection-end-line="317" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#1797#1802#0" />
-            <element signature="e#1670#1863#0" />
-            <element signature="e#1911#1953#0" />
-            <element signature="e#1992#2000#0" />
-            <element signature="e#2080#2285#0" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
